@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
